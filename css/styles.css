@@ -1,0 +1,85 @@
+.sale-border {
+    background: #8CBAE9;
+}
+
+.container {
+    width: 1060px;
+}
+
+#navbar {
+    background: #FF9400;
+    min-height: 50px;
+}
+
+#navbar a {
+    color: black;
+    font-size: 18px;
+}
+
+#conseille {
+    text-decoration: none;
+    color: #0C0701;
+    opacity: 50%;
+    font-size: 14px;
+}
+
+#info-livraison {
+    font-size: 14px;
+}
+
+.form-control {
+    border-radius: 30px;
+    max-height: 35px;
+}
+
+::placeholder {
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.input-group-text {
+    border-radius: 30px;
+    max-height: 35px;
+}
+
+#sale {
+    min-height: 486px;
+    background-image: url("../img/sale.jpg");
+    background-size: cover;
+    font-size: 38px;
+}
+
+.my-button {
+    background: #FF9400;
+    border-radius: 30px;
+    font-size: 18px;
+    width: 17%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.my-little-button {
+    background: #FF9400;
+    border-radius: 30px;
+    font-size: 12px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.title-category {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    margin-bottom: 10px;
+}
+
+#top-ventes {
+    margin-bottom: 20px;
+}
+
+
+
+
+/*[class^="col"]{*/
+/*    border:1px solid blue;*/
+/*}*/
+
+/*.row{*/
+/*    border:1px solid red;*/
+/*}*/
